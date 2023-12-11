@@ -180,6 +180,6 @@ echo 'export CELESTIA_VALOPER='${CELESTIA_VALOPER} >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
 --------------------------------------------
-Ø¨Ø§ Ù„ÛŒÙ†Ú© https://discord.gg/celestiacommunityÂ ÙˆØ§Ø±Ø¯ Ø¯ÛŒØ³Ú©ÙˆØ±Ø¯ Ù¾Ø±ÙˆÚ˜Ù‡ Ø¨Ø´ÛŒØ¯ Ùˆ Ø¨Ù‡ Ø¨Ø®Ø´ mamaki faucet  Ø¨Ø±ÛŒØ¯ Ùˆ Ø¨Ù‡ Ø´Ú©Ù„ Ø²ÛŒØ± Ø§Ø¯Ø±Ø³ Ø®ÙˆØ¯ØªÙˆÙ† Ø±Ùˆ ÙˆØ§Ø±Ø¯ Ú©Ù†ÛŒØ¯ Ùˆ Ø¯Ø±Ø®ÙˆØ§Ø³Øª ÙØ§Ø³Øª Ø´Ø¨Ú©Ù‡ Ø±Ùˆ Ø¨Ø¯ÛŒØ¯
+Ø¨Ø§ Ù„ÛŒÙ†Ú© https://discord.gg/celestiacommunityÂ ÙˆØ§Ø±Ø¯ Ø¯ÛŒØ³Ú©ÙˆØ±Ø¯ Ù¾Ø±ÙˆÚ˜Ù‡ Ø¨Ø´ÛŒØ¯ Ùˆ Ø¨Ù‡ Ø¨Ø®Ø´ mamaki faucet  Ø¨Ø±ÛŒØ¯ Ùˆ Ø¨Ù‡ Ø´Ú©Ù„ Ø²ÛŒØ± Ø§Ø
 $request celestia1a35035fu83jkeeqz00d3jmt3k5wu5x3lyvn6qp
 celestia-appd q bank balances xxxxxxxxxxxxx
