@@ -95,7 +95,7 @@ s/^pruning-interval *=.*/pruning-interval = \"$pruning_interval\"/" $HOME/.celes
 
 --------------------------------------------
 
-sed -i 's/snapshot-interval *=.*/snapshot-interval = 0/' $HOME/.celestia-app/config/app.toml
+sed -i 's/snapshot-interval *=.*/snapshot-interval = 0/'
 
 ---------------------------------------------------
 celestia-appd tendermint unsafe-reset-all --home $HOME/.celestia-app
