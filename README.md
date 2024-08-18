@@ -1,6 +1,6 @@
 sudo apt update && sudo apt upgrade -y
 ---------------------------------------------
-sudo apt install curl tar wget clang  libssl-dev jq build-essential bsdmainutils git make ncdu -y
+sudo apt install curl tar wget clang  libdev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
 ver="1.18.7"
